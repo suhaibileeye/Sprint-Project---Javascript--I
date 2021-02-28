@@ -17,5 +17,6 @@ function myFunction() {
 myFunction();
 
 // Explanation (Min 50 words): 
+// Explanation: since it is nested inside of my function it has access to the variables that surround it (lexical scope)
 
 
